@@ -1,4 +1,5 @@
 ## Diet Planner
+🚀 **Live App:** [Click here](https://diet-planner-mdtzazqoahw3wn2qsyzpfv.streamlit.app/)
 
 ### Setup
 1. Clone the repo
